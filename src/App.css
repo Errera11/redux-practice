@@ -1,0 +1,33 @@
+.App {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(200,25,165,1) 35%, rgba(129,91,197,1) 58%, rgba(0,212,255,1) 100%);
+  height: 100vw;
+
+}
+
+.API {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.incr {
+  margin: 15px;
+}
+
+.decr {
+  margin: 15px;
+}
+
+.value {
+  font-size: 75px;
+  margin: 15px;
+}
+
+.input {
+  margin: 15px;
+}
+
+.customers {
+  font-size: 50px;
+  color: wheat;
+}
